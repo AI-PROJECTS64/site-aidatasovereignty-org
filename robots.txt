@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
 
-# PDF acquisition briefs
-Allow: /Acquisition%20Brief%20aidatasovereignty-202511.pdf
-Allow: /Acquisition%20Brief%20aidatasovereignty-EN-202511.pdf
+Sitemap: https://www.aidatasovereignty.org/sitemap.xml
